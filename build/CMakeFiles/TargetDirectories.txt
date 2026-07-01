@@ -1,0 +1,5 @@
+/home/tiran/hamalsaran/HamalsaranMinesweeper/qt-minesweeper/build/CMakeFiles/Qt6Test.dir
+/home/tiran/hamalsaran/HamalsaranMinesweeper/qt-minesweeper/build/CMakeFiles/edit_cache.dir
+/home/tiran/hamalsaran/HamalsaranMinesweeper/qt-minesweeper/build/CMakeFiles/rebuild_cache.dir
+/home/tiran/hamalsaran/HamalsaranMinesweeper/qt-minesweeper/build/CMakeFiles/Qt6Test_autogen_timestamp_deps.dir
+/home/tiran/hamalsaran/HamalsaranMinesweeper/qt-minesweeper/build/CMakeFiles/Qt6Test_autogen.dir
